@@ -1,1 +1,1 @@
-[Countries React App](https://sashkovna.github.io/)
+[Countries React App](https://sashkovna.github.io/countries_spa_app)
